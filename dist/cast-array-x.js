@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-28T15:17:20.769Z",
+  "date": "2019-08-28T17:12:44.480Z",
   "describe": "",
   "description": "Casts value as an array if it's not one.",
   "file": "cast-array-x.js",
   "hash": "d7f1a4828e9a8dc1d11f",
   "license": "MIT",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
