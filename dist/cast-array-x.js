@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-09-05T19:21:22.934Z",
+  "date": "2020-01-30T13:31:17.273Z",
   "describe": "",
   "description": "Casts value as an array if it's not one.",
   "file": "cast-array-x.js",
